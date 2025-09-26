@@ -1,6 +1,6 @@
 # Description
 
-Solution for [Project Euler](https://projecteuler.net/).
+Solutions for [Project Euler](https://projecteuler.net/).
 
 The focus is to write a Python project according to all best practices:
 * creating a correct repository structure;
